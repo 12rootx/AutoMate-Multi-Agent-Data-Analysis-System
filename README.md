@@ -83,12 +83,12 @@ Then open browser to `http://localhost:8501`
 
 ## 💡 Example Queries
 
-- "How many customers are there by state?"
-- "What product categories have the highest review scores?"
-- "What categories are frequently bought together with health_beauty?"
-- "Show customer distribution by city"
-- "Perform clustering analysis on customer segments"
-- "What are the sentiment patterns in customer reviews?"
+- "How many customers are there by state?",
+- "show me Top 20 popular product categories with their orders, average price and corresponding revenues in latest 3 months, and provide your thoughts",
+- "Give me an overview about product categroy in state SP, for the lastest 3 months",
+- "What product categories are frequently bought together with sports and leisure?",
+- "Recommend 3–6 category groups suitable for targeted marketing campaigns, using the latest 3 months data?",
+- "compare review language across top 5 origin countries. what should we suggest to customers when describing those coffee bean origins? what are the distincts between them"
 
 ## 🔧 Configuration
 
