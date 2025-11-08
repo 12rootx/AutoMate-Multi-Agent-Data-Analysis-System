@@ -1,6 +1,6 @@
 # Multi-Agent Data Analysis System
 
-An intelligent data analysis system powered by LangGraph and OpenAI that automatically orchestrates multiple specialized agents to provide comprehensive business insights.
+An intelligent data analysis system powered by **LangGraph** and OpenAI that automatically orchestrates multiple specialized agents to provide comprehensive business insights.
 
 ## 🌟 Features
 
