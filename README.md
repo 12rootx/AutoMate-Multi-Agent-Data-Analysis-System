@@ -15,6 +15,10 @@ An intelligent data analysis system powered by LangGraph and OpenAI that automat
 
 The system consists of specialized agents orchestrated by LangGraph:
 
+### Workflow
+<img width="961" height="528" alt="image" src="https://github.com/user-attachments/assets/8cb2ab0d-505f-4133-b2ce-14b8b70b467d" />
+
+
 ### Core Agents
 - **Orchestrator Agent**: Plans optimal workflow based on user query
 - **Data Acquisition Agent**: Loads and validates datasets
