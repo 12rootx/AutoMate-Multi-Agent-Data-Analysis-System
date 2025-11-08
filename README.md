@@ -81,14 +81,19 @@ streamlit run streamlit_app.py
 
 Then open browser to `http://localhost:8501`
 
-## 💡 Example Queries
+## 💡 Examples
 
+### Example Queries
 - "How many customers are there by state?",
 - "show me Top 20 popular product categories with their orders, average price and corresponding revenues in latest 3 months, and provide your thoughts",
 - "Give me an overview about product categroy in state SP, for the lastest 3 months",
 - "What product categories are frequently bought together with sports and leisure?",
 - "Recommend 3–6 category groups suitable for targeted marketing campaigns, using the latest 3 months data?",
 - "compare review language across top 5 origin countries. what should we suggest to customers when describing those coffee bean origins? what are the distincts between them"
+
+### Example datasets from Kaggle
+- Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Coffee Reviews Dataset: https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset
 
 ## 🔧 Configuration
 
